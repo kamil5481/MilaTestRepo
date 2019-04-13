@@ -6,7 +6,9 @@ public class SuperCzlowiek extends Czlowiek {
     private ArrayList<String> nazwaSupersily;
 
     SuperCzlowiek() {
-
+        //1 - kamil
+        //2 - kamil
+        //3 - kamil
     }
 
     SuperCzlowiek(String imieKtoreNadamy) {
