@@ -6,6 +6,9 @@ public class SuperCzlowiek extends Czlowiek {
     private ArrayList<String> nazwaSupersily;
 
     SuperCzlowiek() {
+        //1 - Mila
+        //2 - Mila
+        //3 - Mila
 
     }
 
