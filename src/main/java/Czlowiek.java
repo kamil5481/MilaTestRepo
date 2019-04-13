@@ -6,7 +6,7 @@ public class Czlowiek {
     private Boolean plec;
 
     Czlowiek() {
-
+        ///my second commit
     }
 
     Czlowiek(String imieKtoreNadamy) {
